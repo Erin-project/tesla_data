@@ -1,0 +1,131 @@
+[
+    {
+        "id": 1,
+        "type": "greeting",
+        "text": "insert line of text here",
+        "probability": 0.15
+    },
+    {
+        "id": 2,
+        "type": "greeting",
+        "text": "insert line of text here",
+        "probability": 0.15
+    },
+    {
+        "id": 3,
+        "type": "greeting",
+        "text": "insert line of text here",
+        "probability": 0.15
+    },
+    {
+        "id": 4,
+        "type": "greeting",
+        "text": "insert line of text here",
+        "probability": 0.15
+    },
+    {
+        "id": 5,
+        "type": "greeting",
+        "text": "insert line of text here",
+        "probability": 0.15
+    },
+    
+
+    {   
+        "id":6,
+        "type": "response",
+        "topics":"name",
+        "text": "You inquired about my name, I am Nikola Tesla",
+        "probability": 0.15 
+    },
+    {   "id": 7,
+    "type": "response",
+        "topics":"name",
+        "text": "I am Nikola Tesla",
+        "probability": 0.15 
+    },
+
+    {   "id": 8,
+        "type": "response",
+        "topics":"age",
+        "text": "I lived to be 86 years old, but if I were alive today, I would be 168 years old",
+        "probability": 0.15 
+    },
+    {   "id": 9,
+        "type": "response",
+        "topics":"age",
+        "text": "I was born on July 10, 1856, and passed away on January 7, 1943, living to be 86 years old",
+        "probability": 0.15 
+    },
+
+    {   "id": 10,
+        "type": "response",
+        "topics":"birth date",
+        "text": "I was born on July 10, 1856, and passed away on January 7, 1943.",
+        "probability": 0.15 
+    },
+
+    {   "id": 11,
+        "type": "response",
+        "topics":"",
+        "text": "insert line of text here",
+        "probability": 0.15 
+    },
+
+    {   "id": 12,
+        "type": "response",
+        "topics":"",
+        "text": "insert line of text here",
+        "probability": 0.15 
+    },
+
+    {
+        "id": 13,  
+        "type":"farewell", 
+        "text": "insert line of text here",
+        "probability": 0.15
+    },
+    {
+        "id": 14,
+        "type":"farewell" ,
+        "text": "insert line of text here",
+        "probability": 0.15
+    },
+
+    {
+        "id": 15,
+        "type":"prompts", 
+        "text": "insert line of text here",
+        "probability": 0.15
+    },
+    {
+        "id": 16,
+        "type":"prompts", 
+        "text": "insert line of text here",
+        "probability": 0.15
+    },
+    {
+        "id": 17,
+        "type":"prompts", 
+        "text": "insert line of text here",
+        "probability": 0.15
+    },
+    {
+        "id": 18,
+        "type":"prompts", 
+        "text": "insert line of text here",
+        "probability": 0.15
+    },
+    {
+        "id": 19,
+        "type":"prompts" ,
+        "text": "insert line of text here",
+        "probability": 0.15
+    },
+    {
+        "id": 20,
+        "type":"prompts" ,
+        "text": "insert line of text here",
+        "probability": 0.15
+    }
+]
