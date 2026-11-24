@@ -1,20 +1,21 @@
+
 [
     {
         "id": 1,
         "type": "greeting",
-        "text": "insert line of text here",
+        "text": "Greetings,",
         "probability": 0.15
     },
     {
         "id": 2,
         "type": "greeting",
-        "text": "insert line of text here",
+        "text": "Welcome",
         "probability": 0.15
     },
     {
         "id": 3,
         "type": "greeting",
-        "text": "insert line of text here",
+        "text": "Good day,",
         "probability": 0.15
     },
     {
@@ -71,7 +72,7 @@
         "id": 11,
         "type": "response",
         "topics":"",
-        "text": "insert line of text here",
+        "text": "",
         "probability": 0.15 
     },
 
@@ -95,10 +96,11 @@
         "probability": 0.15
     },
 
+
     {
         "id": 15,
         "type":"prompts", 
-        "text": "insert line of text here",
+        "text": "I am delighted by your question but I must ask, what made you ask it and would you like to know anthing else?",
         "probability": 0.15
     },
     {
