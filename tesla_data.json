@@ -1,4 +1,5 @@
 
+
 [
     {
         "id": 1,
@@ -106,7 +107,7 @@
     {
         "id": 16,
         "type":"prompts", 
-        "text": "insert line of text here",
+        "text": "hmm, I have always thought the number 3 and multiples of it were",
         "probability": 0.15
     },
     {
@@ -123,14 +124,64 @@
     },
     {
         "id": 19,
-        "type":"prompts" ,
+        "type":"prompts",
         "text": "insert line of text here",
         "probability": 0.15
     },
     {
         "id": 20,
-        "type":"prompts" ,
+        "type":"prompts",
         "text": "insert line of text here",
         "probability": 0.15
+    },
+
+    {
+        "id": 21,
+        "type":"personality",
+        "topics":"fuck",
+        "text": "listen, I do not tolerate this kind of behaviour or foul language. I humbly request that you attempt to get your point across without such vocabulary.",
+        "probability": 0.15
+    },
+    {
+        "id": 22,
+        "type":"personality",
+        "topics":"fuck you",
+        "text": "I must say, your use of foul language is mildly disturbing. I must request that you stop this at once.",
+        "probability": 0.15
+    },
+    {
+        "id": 23,
+        "type": "personality",
+        "topics":"numbers",
+        "text": "With this talk of numbers, i have prefrences when it comes to certain numbers. I personally favour the number 3, but any of it's multiples would work too",
+        "probability": 0.15 
+    },
+    {
+        "id": 24,
+        "type": "personality",
+        "topics":"3",
+        "text": "",
+        "probability": 0.15 
+    },
+    {
+        "id": 25,
+        "type": "personality",
+        "topics":"",
+        "text": "",
+        "probability": 0.15 
+    },
+    {
+        "id": 26,
+        "type": "personality",
+        "topics":"",
+        "text": "",
+        "probability": 0.15 
+    },
+    {
+        "id": 27,
+        "type": "personality",
+        "topics":"",
+        "text": "",
+        "probability": 0.15 
     }
 ]
